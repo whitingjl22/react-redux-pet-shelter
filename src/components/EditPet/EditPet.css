@@ -1,0 +1,28 @@
+.editPetContainer p {
+  margin-left: 22px;
+}
+
+.editPetContainer form {
+  margin-left: 22px;
+  padding: 10px;
+}
+
+.editPetContainer h3 {
+  margin-left: 22px;
+}
+
+.nameInput {
+  margin-left: -55px;
+}
+
+.editPetForm {
+  border-style: solid;
+  width: 500px;
+  margin: 20px;
+  min-height: 200px;
+}
+
+.errorMessage {
+  margin-left: 22px;
+  color: red;
+}

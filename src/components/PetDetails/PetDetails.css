@@ -1,0 +1,15 @@
+.petDetails_contentContainer {
+  border-style: solid;
+  width: 700px;
+  margin: 20px;
+  min-height: 300px;
+  background: lightgray;
+}
+
+.petDetailsContainer p {
+  margin-left: 22px;
+}
+
+.petDetailsContainer button {
+  margin-left: 22px;
+}

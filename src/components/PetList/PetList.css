@@ -1,0 +1,23 @@
+.petlistContainer p {
+  margin-left: 22px;
+}
+
+.petlistContainer h3 {
+  margin-left: 22px;
+}
+
+.petlist_contentContainer {
+  border-style: solid;
+  width: 700px;
+  margin: 20px;
+  min-height: 300px;
+  background: lightgray;
+}
+
+.petlist_resultContainer td {
+  padding-right: 80px;
+}
+
+.petlist_resultContainer th {
+  padding-right: 80px;
+}
